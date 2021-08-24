@@ -1,0 +1,2 @@
+# NewBadBank
+BadBank --> DarkBank --> NewBadBank
