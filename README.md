@@ -1,2 +1,32 @@
 # NewBadBank
 BadBank --> DarkBank --> NewBadBank
+
+<h2>Project Title:</h2> BadBank --> DarkBank --> NewBadBank
+
+<h2>Description/Motivation:</h2> 
+As you may be able to tell from the title - this project has been through a few different styles and names due to each new process learned during its production. The further it moved along the more character and personality developed. This version is maybe a step backwards in design however it is leaps forward in practicality. I am motivated to always learn more and this project really helped me in understanding different aspects that make up a functional web application. 
+
+<h2>Installation Guidelines:</h2> 
+<li>Download the code or clone it from my repository onto your local machine</li>
+<li>Drag and drop the files into your code editor (VScode)</li>
+<li>run commands for installing express/npm init/mongodb/docker</li>
+<li>Open your docker app and run neccissary commands (will run NewBadBank using mongo on port 27017)</li>
+<li>Open the terminal and run "node index.js"</li>
+<li>This should fire up port 3000</li>
+<li>Navigate to localhost:3000 on your browswer</li>
+</li>Create an account with your email and password and practice depositing and withdrawling "money" which keeping track of your account status</li>
+
+Screenshots: 
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
+
+<h2>Technology used:</h2> 
+The technology used in this are docker, visual studio, node, express, cors, mongodb.  
+Features: In this application you will be able to sign up for an account with the bank, log in with the password and user name, check your balance, deposit "money" and withdrawl "money" as well as check the membership rolls with the current account balances. 
+
+<h2>License</h2> 
+Copyright 2021 mjgaultney@gmail.com
+
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
