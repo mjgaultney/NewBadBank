@@ -17,7 +17,8 @@ As you may be able to tell from the title - this project has been through a few 
 </li>Create an account with your email and password and practice depositing and withdrawling "money" which keeping track of your account status</li>
 
 Screenshots: 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/mjgaultney/NewBadBank/blob/main/badbank.png?raw=true "Log In")
+
 
 
 <h2>Technology used:</h2> 
