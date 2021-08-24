@@ -7,8 +7,8 @@ As you may be able to tell from the title - this project has been through a few 
 <h2>Installation Guidelines:</h2> 
 <li>Download the code or clone it from my repository onto your local machine</li>
 <li>Drag and drop the files into your code editor (VScode)</li>
-<li>run commands for installing express/npm init/mongodb/docker</li>
-<li>Open your docker app and run neccissary commands (will run NewBadBank using mongo on port 27017)</li>
+<li>Run commands for installing express/npm init/mongodb/docker</li>
+<li>Run your docker app and run neccissary commands (docker run -p 27017:27017 --name NewBadBank -d mongo  **  This will run NewBadBank using mongo on port 27017)</li>
 <li>Open the terminal and run "node index.js"</li>
 <li>This should fire up port 3000</li>
 <li>Navigate to localhost:3000 on your browswer</li>
@@ -20,8 +20,8 @@ As you may be able to tell from the title - this project has been through a few 
 
 
 <h2>Technology used:</h2> 
-The technology used in this are docker, visual studio, node, express, cors, mongodb.  
-Features: In this application you will be able to sign up for an account with the bank, log in with the password and user name, check your balance, deposit "money" and withdrawl "money" as well as check the membership rolls with the current account balances. 
+The technology used in this are google chrome, react, docker, visual studio, node, express, cors, mongodb.  
+<h3>Features:</h3> In this application you will be able to sign up for an account with the bank, log in with the password and user name, check your balance, deposit "money" and withdrawl "money" as well as check the membership rolls with the current account balances. 
 
 <h2>License</h2> 
 Copyright 2021 mjgaultney@gmail.com
