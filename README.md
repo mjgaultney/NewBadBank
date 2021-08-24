@@ -14,7 +14,8 @@ As you may be able to tell from the title - this project has been through a few 
 <li>Navigate to localhost:3000 on your browswer</li>
 </li>Create an account with your email and password and practice depositing and withdrawling "money" which keeping track of your account status</li>
 
- 
+![Alt text](https://github.com/mjgaultney/NewBadBank/blob/main/VScode.png?raw=true "VScode")
+![Alt text](https://github.com/mjgaultney/NewBadBank/blob/main/docker.png?raw=true "Docker")
 ![Alt text](https://github.com/mjgaultney/NewBadBank/blob/main/badbank.png?raw=true "Log In")
 
 
